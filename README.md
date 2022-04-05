@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/rflkowalski/fem-newbie-qr-code-component)
--   Live Site URL: [Add live site URL here](https://rflkowalski.github.io/fem-newbie-qr-code-component/)
+-   Solution URL: [https://github.com/rflkowalski/fem-newbie-qr-code-component](https://github.com/rflkowalski/fem-newbie-qr-code-component)
+-   Live Site URL: [https://rflkowalski.github.io/fem-newbie-qr-code-component/](https://rflkowalski.github.io/fem-newbie-qr-code-component/)
 
 ## My process
 
