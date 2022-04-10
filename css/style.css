@@ -1,3 +1,16 @@
+:root {
+    --clr-neutral-100: hsl(0, 0%, 100%); /* White */
+    --clr-neutral-200: hsl(212, 45%, 89%); /* Light gray */
+    --clr-neutral-400: hsl(220, 15%, 55%); /* Grayish blue */
+    --clr-neutral-800: hsl(218, 44%, 22%); /* Dark blue */
+
+    --fs-400: 0.9375rem; /* 15px */ /* base */
+    --fs-600: 1.25rem; /* 20px */
+
+    --fw-400: 400; /* base */
+    --fw-700: 700;
+}
+
 html {
     font-size: 100%;
     box-sizing: border-box;
@@ -10,7 +23,7 @@ html {
 }
 
 body {
-    background: hsl(212, 45%, 89%);
+    background: var(--clr-neutral-200);
     margin: 0;
     padding: 0;
     font-family: 'Outfit', sans-serif;
@@ -18,7 +31,7 @@ body {
 }
 
 .qr-container {
-    background: hsl(0, 0%, 100%);
+    background: var(--clr-neutral-100);
     width: 20rem;
     padding: 1rem;
     position: absolute;
@@ -45,13 +58,13 @@ body {
 }
 
 .qr-header {
-    font-size: 1.25rem;
-    color: hsl(218, 44%, 22%);
+    font-size: var(--fs-600);
+    color: var(--clr-neutral-800);
     margin: 0 0 1rem 0;
 }
 
 .qr-paragraph {
-    font-size: 0.9375rem;
-    color: hsl(220, 15%, 55%);
+    font-size: var(--fs-400);
+    color: var(--clr-neutral-400);
     margin: 0;
 }
