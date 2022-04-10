@@ -17,12 +17,13 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://github.com/rflkowalski/fem-newbie-qr-code-component](https://github.com/rflkowalski/fem-newbie-qr-code-component)
--   Live Site URL: [https://rflkowalski.github.io/fem-newbie-qr-code-component/](https://rflkowalski.github.io/fem-newbie-qr-code-component/)
+-   Solution URL: [link](https://github.com/rflkowalski/fem-newbie-qr-code-component)
+-   Live Site URL: [link](https://rflkowalski.github.io/fem-newbie-qr-code-component/)
 
 ## My process
 
 ### Built with
 
 -   Semantic HTML5 markup
--   CSS3
+-   CSS3 custom properties
+-   Modern CSS Reset [link](https://piccalil.li/blog/a-modern-css-reset/)
